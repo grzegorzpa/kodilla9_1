@@ -12,9 +12,9 @@ function getTriangleArea(a, h) {
 	}
 };
 
-console.log(getTriangleArea(4,7));
-console.log(getTriangleArea(10,6));
-console.log(getTriangleArea(-10,10));
+console.log(getTriangleArea(4, 7));
+console.log(getTriangleArea(10, 6));
+console.log(getTriangleArea(-10, 10));
 
 var triangle1Area = getTriangleArea(10, 15);
 var triangle2Area = getTriangleArea(13, -12);
